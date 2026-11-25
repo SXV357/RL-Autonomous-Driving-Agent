@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://deepwiki.com/SXV357/RL-Autonomous-Driving-Agent">
-    <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki">
+    <img src="https://img.shields.io/badge/DeepWiki-Ask-blue" alt="Ask DeepWiki">
   </a>
 </div>
 <br />
